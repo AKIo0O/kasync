@@ -1,0 +1,24 @@
+{
+  "name": "kasync",
+  "description": "For mongoose async queries",
+  "version": "0.0.1",
+  "author": {
+    "name": "AKI",
+    "email": "tangxm90@gmail.com"
+  },
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "kasync"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AKIo0O/kasync.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "readmeFilename": "Readme.md",
+  "_id": "kasync@0.0.1"
+}
