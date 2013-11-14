@@ -1,4 +1,4 @@
-kasync for mongoose queries
+kasync
 ======
 
 
