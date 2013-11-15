@@ -38,6 +38,6 @@ setTimeout(T.wait("timeout", function(){
 
 T.done("timeout", function(){
     res += "done";
-    console.log(res);// 4000ms3000msdone
+    console.log(res);// 3000ms4000msdone
 });
 ```
